@@ -14,5 +14,5 @@ This [project](https://edec.ucar.edu/university-partnerships/innovators/2021-202
 
 __Broader Outcomes__ 
 
-As a social scientist and historian, at the core of this project is the goal of closing the gap between data technology and cultural studies, with the hope of (1) expanding the interdisciplinary field of Africana Studies, AI, and Atmospheric Science as a vehicle to advance Actionable Earth System Science; (2) researching the depth of data bias in pollution, weather forecasting and disaster preparedness in the high population Black, Latino/a and Indigenous Native American communities; and (3) training more students to become culturally conscious scientists in mitigate bias.
+As a social scientist and historian, at the core of this project is the goal of closing the gap between data technology and cultural studies, with the hope of (1) expanding the interdisciplinary field of Africana Studies, AI, and Atmospheric Science as a vehicle to advance Actionable Earth System Science; (2) researching the depth of data bias in pollution, weather forecasting and disaster preparedness in the high population Black, Latino/a and Indigenous Native American communities; and (3) training more students to become culturally conscious scientists to mitigate bias.
 
